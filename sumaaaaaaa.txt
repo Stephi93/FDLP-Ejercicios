@@ -1,0 +1,12 @@
+<script type="text/javascript">
+let n1=0;
+let n2=0;
+let r=0;
+n1=parseInt(prompt("Dame el primer valor"));
+n2=parseInt(prompt("Dame el segundo valor"));
+r=n1+n2;
+alert("La suma es" + r);
+</script>
+
+
+
